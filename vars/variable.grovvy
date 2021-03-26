@@ -1,4 +1,3 @@
-
-def call(message){
-  echo "INFO: ${message}"
+def call(){
+  echo "WHY ARE YOU CALLING THIS FUNCTION!??!"
 }
