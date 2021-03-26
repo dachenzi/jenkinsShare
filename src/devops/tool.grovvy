@@ -1,5 +1,0 @@
-package devops
-
-def printMessage(content) {
-    println("this is my Library!")
-}
